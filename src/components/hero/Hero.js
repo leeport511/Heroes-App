@@ -20,7 +20,7 @@ export const Hero = () => {
     return <Navigate to="/" />
   };
 
-  const imagePath = `${process.env.PUBLIC_URL}/assets/${id}.jpg`;
+  const imagePath =  `${process.env.PUBLIC_URL}/assets/img-heroes/${id}.jpg`;
 
   
 
