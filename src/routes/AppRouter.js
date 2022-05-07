@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom"
 import { LoginScreen } from "../components/login/LoginScreen"
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import { DashboardRoutes } from "./DashboardRoutes"
 
 
