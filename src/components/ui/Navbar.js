@@ -21,7 +21,7 @@ export const Navbar = () => {
                 Asociaciones
             </Link>
 
-            <div className="navbar-collapse">
+            <div className="navbar-collapse container-fluid">
                 <div className="navbar-nav">
 
                     <NavLink 
@@ -37,7 +37,14 @@ export const Navbar = () => {
                     >
                         DC
                     </NavLink>
-
+                    <div className="d-flex">
+                    <NavLink 
+                        className={ ( {isActive} ) => "nav-item nav-link" + ( isActive ? " active" : '' )}
+                        to="/infamous"
+                    >
+                        Infamous HLL Squad
+                    </NavLink>
+                    </div>
                     <NavLink 
                         className={ ( {isActive} ) => "nav-item nav-link" + ( isActive ? " active" : '' )}
                         to="/search"

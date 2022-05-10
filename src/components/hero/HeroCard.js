@@ -1,3 +1,4 @@
+import React from 'react';
 import {Link} from 'react-router-dom'
 
 export const HeroCard = ({
@@ -9,14 +10,14 @@ export const HeroCard = ({
     characters,
 }) => {
 
-    const imagePath = `assets/img-heroes/${id}.jpg`
+    const imagePath = `assets/img-heroes/${id}.jpg`;
 
   return (
       <div className="col animate__animated animate__fadeIn">
-            <div className="card ">
+            <div className="card">
                 <div className="row g-0">
                     <div className="col-4">
-                        <img src={imagePath} className="card-img-top " alt={superhero}/>
+                        <img src={imagePath} className="card-img-top img-fluid" alt={superhero}/>
                     </div>
                         <div className="col-8">
                             <div className="card-body">

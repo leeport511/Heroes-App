@@ -158,5 +158,53 @@ export const heroes = [
         'alter_ego':'Norrin Radd',
         'first_appearance':'The Fantastic Four #48',
         'characters':'Norrin Radd'
-    }
+    },
+    {
+        'id': 'infamous-rodra',
+        'superhero':'Rodri "The Commander" Portillo', 
+        'publisher':'HLL Squad', 
+        'alter_ego':'Webber',
+        'first_appearance':'Omaha Beach',
+        'characters':'Webber'
+    },
+    {
+        'id': 'infamous-leo',
+        'superhero':'Leo "Mazine Gan" Portillo', 
+        'publisher':'HLL Squad', 
+        'alter_ego':'Leeport',
+        'first_appearance':'St Marie Du Mont',
+        'characters':'Leeport'
+    },
+    {
+        'id': 'infamous-jor',
+        'superhero':'Jor "Grass Cutter" Messina', 
+        'publisher':'HLL Squad', 
+        'alter_ego':'Conqueror',
+        'first_appearance':'Omaha Beach',
+        'characters':'Conqueror'
+    },
+    {
+        'id': 'infamous-asty',
+        'superhero':'Rodri "Panzerfaust" Gomez', 
+        'publisher':'HLL Squad', 
+        'alter_ego':'Asty',
+        'first_appearance':'Sainte-Mère-Église',
+        'characters':'Asty'
+    },
+    {
+        'id': 'infamous-her',
+        'superhero':'Hernan "Chest Bullet Stopper" Portillo', 
+        'publisher':'HLL Squad', 
+        'alter_ego':'_was',
+        'first_appearance':'Foy',
+        'characters':'_was'
+    },
+    {
+        'id': 'infamous-pato',
+        'superhero':'Pato "Never Show Up" Vicens', 
+        'publisher':'HLL Squad', 
+        'alter_ego':'Neocero',
+        'first_appearance':'Hill 400',
+        'characters':'Neocero'
+    },
 ]

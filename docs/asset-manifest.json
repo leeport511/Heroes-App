@@ -1,10 +1,11 @@
 {
-  "files": {
-    "main.js": "/Heroes-App/static/js/main.018119d6.js",
-    "index.html": "/Heroes-App/index.html",
-    "main.018119d6.js.map": "/Heroes-App/static/js/main.018119d6.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.018119d6.js"
-  ]
+  "main.js": "/Heroes-App/static/js/main.823af1f1.chunk.js",
+  "main.js.map": "/Heroes-App/static/js/main.823af1f1.chunk.js.map",
+  "static/js/1.5396ee5e.chunk.js": "/Heroes-App/static/js/1.5396ee5e.chunk.js",
+  "static/js/1.5396ee5e.chunk.js.map": "/Heroes-App/static/js/1.5396ee5e.chunk.js.map",
+  "runtime~main.js": "/Heroes-App/static/js/runtime~main.045c370a.js",
+  "runtime~main.js.map": "/Heroes-App/static/js/runtime~main.045c370a.js.map",
+  "index.html": "/Heroes-App/index.html",
+  "precache-manifest.19c970a73577aaf65d2b2e6a838b8942.js": "/Heroes-App/precache-manifest.19c970a73577aaf65d2b2e6a838b8942.js",
+  "service-worker.js": "/Heroes-App/service-worker.js"
 }
